@@ -5,7 +5,7 @@ import numpy as np
 
 # NEURAL NETWORK CLASS
 class NeuralNetwork:
-    def __init__(self, input_size, learning_rate):
+    def __init__(self, input_size, learning_rate=0.1):
         self.input_size = input_size
         self.weights = []
         self.bias = []
