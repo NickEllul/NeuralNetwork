@@ -4,7 +4,7 @@
 ![Numpy](https://miro.medium.com/max/1400/1*cyXCE-JcBelTyrK-58w6_Q.png)
 
 
-This is a simple hobby project that uses the python library, Numpy, to implement a Artificial Nerual Network. 
+This is a simple hobby project that uses the python library, Numpy, to implement an artificial nerual network. 
 
 
 ## Features
