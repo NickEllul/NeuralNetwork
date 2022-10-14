@@ -153,9 +153,9 @@ def main():
     nn = NeuralNetwork(2, 0.8)
 
     # add 2 hidden layers with a leaky relu activation function
-    nn.add_layer(10, sigmoid)
+    nn.add_layer(50, sigmoid)
 
-    nn.add_layer(10, sigmoid)
+    nn.add_layer(50, sigmoid)
 
     # add the output layer with a softmax function
     nn.add_layer(2, softmax)
